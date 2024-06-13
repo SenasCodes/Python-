@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCmygjkjbjhj76fwjkjvgfgijijhuy,tyhojryyuhrthyrglknbmnhdffkjghthiigjoijoiggfhgfhgghjmdfgghjgmgdwjhljffhfuigmbfre,llkjffdgnghgjkenkgfgevbfekhbvrrbngjijnbharm')
+    print_hi('PyCmygjkjhbjhj76fwjkjvgfgijijhuy,tyhojryyuhrthyrglknbmnhdffkjghthiigjoijoiggfhgfhgghjmdfgghjgmgdwjhljffhfuigmbfre,llkjffdgnghgjkenkgfgevbfekhbvrrbngjijnbharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
